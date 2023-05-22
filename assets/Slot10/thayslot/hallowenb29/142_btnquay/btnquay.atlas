@@ -1,0 +1,20 @@
+
+btnquay.png
+size: 298,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 2, 2
+  size: 208, 176
+  orig: 208, 176
+  offset: 0, 0
+  index: -1
+Quay
+  rotate: true
+  xy: 212, 26
+  size: 152, 84
+  orig: 152, 84
+  offset: 0, 0
+  index: -1

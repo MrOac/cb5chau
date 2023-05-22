@@ -1,0 +1,118 @@
+
+mainit.png
+size: 506,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 272, 249
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 272, 119
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: true
+  xy: 2, 12
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: true
+  xy: 132, 12
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: true
+  xy: 262, 2
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 389, 264
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 389, 134
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 355
+  size: 224, 409
+  orig: 226, 411
+  offset: 1, 1
+  index: -1
+bg2
+  rotate: true
+  xy: 228, 547
+  size: 217, 144
+  orig: 219, 146
+  offset: 1, 1
+  index: -1
+chan1
+  rotate: false
+  xy: 347, 394
+  size: 85, 69
+  orig: 87, 71
+  offset: 1, 1
+  index: -1
+chan2
+  rotate: true
+  xy: 451, 562
+  size: 62, 42
+  orig: 64, 44
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 374, 626
+  size: 138, 129
+  orig: 140, 131
+  offset: 1, 1
+  index: -1
+day-dan
+  rotate: true
+  xy: 228, 379
+  size: 84, 117
+  orig: 86, 119
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 374, 552
+  size: 75, 72
+  orig: 77, 74
+  offset: 1, 1
+  index: -1
+tengame
+  rotate: false
+  xy: 228, 465
+  size: 264, 80
+  orig: 264, 80
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 129
+  size: 224, 268
+  orig: 226, 270
+  offset: 1, 1
+  index: -1

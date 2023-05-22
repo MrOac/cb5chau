@@ -1,0 +1,83 @@
+
+zi1.png
+size: 401,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_1_ch
+  rotate: false
+  xy: 271, 116
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 161
+  size: 267, 238
+  orig: 294, 259
+  offset: 13, 10
+  index: -1
+guang2
+  rotate: false
+  xy: 112, 26
+  size: 133, 133
+  orig: 162, 160
+  offset: 15, 14
+  index: -1
+x_1_ch
+  rotate: true
+  xy: 247, 19
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: true
+  xy: 247, 133
+  size: 26, 21
+  orig: 31, 25
+  offset: 3, 1
+  index: -1
+xing2
+  rotate: false
+  xy: 141, 3
+  size: 18, 21
+  orig: 22, 26
+  offset: 2, 3
+  index: -1
+xing3
+  rotate: true
+  xy: 112, 3
+  size: 21, 27
+  orig: 25, 31
+  offset: 2, 2
+  index: -1
+xing4
+  rotate: false
+  xy: 345, 74
+  size: 30, 40
+  orig: 35, 44
+  offset: 3, 2
+  index: -1
+xing5
+  rotate: false
+  xy: 345, 35
+  size: 29, 37
+  orig: 35, 44
+  offset: 3, 4
+  index: -1
+zi1
+  rotate: true
+  xy: 2, 2
+  size: 157, 108
+  orig: 159, 110
+  offset: 1, 2
+  index: -1
+zi2
+  rotate: true
+  xy: 271, 220
+  size: 179, 114
+  orig: 183, 116
+  offset: 2, 2
+  index: -1

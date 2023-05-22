@@ -1,0 +1,20 @@
+
+iteam6.png
+size: 232,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it6
+  rotate: false
+  xy: 2, 2
+  size: 113, 144
+  orig: 113, 144
+  offset: 0, 0
+  index: -1
+it62
+  rotate: false
+  xy: 117, 2
+  size: 113, 144
+  orig: 113, 144
+  offset: 0, 0
+  index: -1

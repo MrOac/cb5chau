@@ -1,0 +1,356 @@
+
+pumkinex.png
+size: 1620,1131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 1175, 69
+  size: 112, 175
+  orig: 112, 178
+  offset: 0, 3
+  index: -1
+Layer 33
+  rotate: false
+  xy: 1406, 820
+  size: 198, 309
+  orig: 200, 311
+  offset: 1, 1
+  index: -1
+Layer 34
+  rotate: true
+  xy: 202, 630
+  size: 186, 297
+  orig: 188, 299
+  offset: 1, 1
+  index: -1
+Layer 35
+  rotate: false
+  xy: 1427, 521
+  size: 184, 297
+  orig: 186, 299
+  offset: 1, 1
+  index: -1
+Layer 36
+  rotate: false
+  xy: 990, 319
+  size: 185, 297
+  orig: 187, 299
+  offset: 1, 1
+  index: -1
+Layer 37
+  rotate: true
+  xy: 811, 618
+  size: 199, 307
+  orig: 201, 309
+  offset: 1, 1
+  index: -1
+Layer 38
+  rotate: true
+  xy: 683, 222
+  size: 196, 303
+  orig: 198, 305
+  offset: 1, 1
+  index: -1
+Layer 39
+  rotate: true
+  xy: 684, 420
+  size: 196, 304
+  orig: 198, 306
+  offset: 1, 1
+  index: -1
+Layer 40
+  rotate: true
+  xy: 315, 24
+  size: 196, 303
+  orig: 198, 305
+  offset: 1, 1
+  index: -1
+Layer 41
+  rotate: true
+  xy: 377, 222
+  size: 196, 304
+  orig: 198, 306
+  offset: 1, 1
+  index: -1
+Layer 42
+  rotate: false
+  xy: 1006, 819
+  size: 198, 310
+  orig: 200, 312
+  offset: 1, 1
+  index: -1
+Layer 43
+  rotate: false
+  xy: 988, 18
+  size: 185, 299
+  orig: 187, 301
+  offset: 1, 1
+  index: -1
+Layer 44
+  rotate: true
+  xy: 2, 2
+  size: 198, 311
+  orig: 200, 313
+  offset: 1, 1
+  index: -1
+Layer 45
+  rotate: false
+  xy: 403, 819
+  size: 199, 310
+  orig: 201, 312
+  offset: 1, 1
+  index: -1
+Layer 46
+  rotate: false
+  xy: 202, 818
+  size: 199, 311
+  orig: 201, 313
+  offset: 1, 1
+  index: -1
+Layer 47
+  rotate: true
+  xy: 620, 27
+  size: 193, 301
+  orig: 195, 303
+  offset: 1, 1
+  index: -1
+Layer 48
+  rotate: false
+  xy: 604, 819
+  size: 199, 310
+  orig: 201, 312
+  offset: 1, 1
+  index: -1
+Layer 49
+  rotate: true
+  xy: 1120, 620
+  size: 197, 305
+  orig: 199, 307
+  offset: 1, 1
+  index: -1
+Layer 50
+  rotate: false
+  xy: 179, 323
+  size: 196, 305
+  orig: 198, 307
+  offset: 1, 1
+  index: -1
+Layer 51
+  rotate: false
+  xy: 1177, 318
+  size: 192, 300
+  orig: 194, 302
+  offset: 1, 1
+  index: -1
+Layer 52
+  rotate: false
+  xy: 1371, 218
+  size: 192, 301
+  orig: 194, 303
+  offset: 1, 1
+  index: -1
+Layer 53
+  rotate: true
+  xy: 501, 618
+  size: 199, 308
+  orig: 201, 310
+  offset: 1, 1
+  index: -1
+Layer 54
+  rotate: true
+  xy: 377, 420
+  size: 196, 305
+  orig: 198, 307
+  offset: 1, 1
+  index: -1
+Layer 55
+  rotate: false
+  xy: 805, 819
+  size: 199, 310
+  orig: 201, 312
+  offset: 1, 1
+  index: -1
+Layer 56
+  rotate: false
+  xy: 1206, 819
+  size: 198, 310
+  orig: 200, 312
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: true
+  xy: 1352, 4
+  size: 80, 98
+  orig: 81, 98
+  offset: 1, 0
+  index: -1
+aochoang
+  rotate: false
+  xy: 1352, 86
+  size: 143, 130
+  orig: 143, 130
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1175, 183
+  size: 164, 133
+  orig: 167, 133
+  offset: 0, 0
+  index: -1
+firefly
+  rotate: false
+  xy: 2, 202
+  size: 175, 431
+  orig: 177, 433
+  offset: 1, 1
+  index: -1
+khung
+  rotate: false
+  xy: 2, 635
+  size: 198, 494
+  orig: 200, 496
+  offset: 1, 1
+  index: -1
+mam
+  rotate: true
+  xy: 1523, 3
+  size: 54, 44
+  orig: 56, 46
+  offset: 1, 1
+  index: -1
+matphai
+  rotate: false
+  xy: 1565, 424
+  size: 53, 31
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+matrai
+  rotate: false
+  xy: 1371, 527
+  size: 51, 29
+  orig: 53, 31
+  offset: 1, 1
+  index: -1
+mom
+  rotate: true
+  xy: 923, 81
+  size: 139, 54
+  orig: 142, 57
+  offset: 0, 3
+  index: -1
+napdau
+  rotate: false
+  xy: 1175, 34
+  size: 93, 33
+  orig: 95, 35
+  offset: 1, 1
+  index: -1
+no
+  rotate: false
+  xy: 179, 202
+  size: 61, 45
+  orig: 63, 47
+  offset: 1, 1
+  index: -1
+riaphai
+  rotate: false
+  xy: 1452, 68
+  size: 43, 16
+  orig: 45, 18
+  offset: 1, 1
+  index: -1
+riatrai
+  rotate: true
+  xy: 1606, 1081
+  size: 48, 12
+  orig: 50, 14
+  offset: 1, 1
+  index: -1
+tayphai1
+  rotate: false
+  xy: 923, 25
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+tayphai2
+  rotate: true
+  xy: 242, 202
+  size: 45, 52
+  orig: 47, 54
+  offset: 1, 1
+  index: -1
+tayphai3
+  rotate: true
+  xy: 1565, 457
+  size: 62, 53
+  orig: 64, 55
+  offset: 1, 1
+  index: -1
+taytrai1
+  rotate: false
+  xy: 1270, 34
+  size: 71, 33
+  orig: 73, 35
+  offset: 1, 1
+  index: -1
+taytrai2
+  rotate: false
+  xy: 1565, 294
+  size: 39, 50
+  orig: 41, 52
+  offset: 1, 1
+  index: -1
+taytrai3
+  rotate: false
+  xy: 1452, 2
+  size: 69, 55
+  orig: 71, 57
+  offset: 1, 1
+  index: -1
+vaiphai
+  rotate: true
+  xy: 1371, 558
+  size: 60, 54
+  orig: 62, 56
+  offset: 1, 1
+  index: -1
+vaitrai
+  rotate: true
+  xy: 1341, 279
+  size: 37, 28
+  orig: 39, 30
+  offset: 1, 1
+  index: -1
+vataophai
+  rotate: false
+  xy: 1565, 346
+  size: 31, 76
+  orig: 33, 78
+  offset: 1, 1
+  index: -1
+vataotrai
+  rotate: false
+  xy: 338, 249
+  size: 37, 72
+  orig: 39, 74
+  offset: 1, 1
+  index: -1
+wild
+  rotate: false
+  xy: 179, 249
+  size: 157, 72
+  orig: 159, 74
+  offset: 1, 1
+  index: -1
+wild copy
+  rotate: true
+  xy: 1497, 59
+  size: 157, 72
+  orig: 159, 74
+  offset: 1, 1
+  index: -1

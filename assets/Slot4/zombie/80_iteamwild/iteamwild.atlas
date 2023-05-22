@@ -1,0 +1,41 @@
+
+iteamwild.png
+size: 266,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dau
+  rotate: true
+  xy: 137, 111
+  size: 105, 109
+  orig: 105, 109
+  offset: 0, 0
+  index: -1
+nendat
+  rotate: true
+  xy: 171, 2
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+nendia
+  rotate: false
+  xy: 2, 83
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 2, 9
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 76, 41
+  size: 93, 40
+  orig: 93, 40
+  offset: 0, 0
+  index: -1

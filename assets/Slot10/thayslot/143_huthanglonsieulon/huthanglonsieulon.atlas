@@ -1,0 +1,153 @@
+
+huthanglonsieulon.png
+size: 1747,841
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 488, 16
+  size: 119, 119
+  orig: 120, 123
+  offset: 1, 0
+  index: -1
+10
+  rotate: false
+  xy: 1262, 135
+  size: 118, 120
+  orig: 120, 123
+  offset: 2, 2
+  index: -1
+11
+  rotate: false
+  xy: 1262, 13
+  size: 118, 120
+  orig: 120, 123
+  offset: 2, 2
+  index: -1
+12
+  rotate: false
+  xy: 124, 13
+  size: 119, 122
+  orig: 120, 123
+  offset: 1, 0
+  index: -1
+13
+  rotate: false
+  xy: 366, 15
+  size: 120, 120
+  orig: 120, 123
+  offset: 0, 2
+  index: -1
+14
+  rotate: false
+  xy: 609, 16
+  size: 119, 119
+  orig: 120, 123
+  offset: 1, 2
+  index: -1
+15
+  rotate: false
+  xy: 2, 12
+  size: 120, 123
+  orig: 120, 123
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 245, 13
+  size: 119, 122
+  orig: 120, 123
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 1625, 142
+  size: 114, 120
+  orig: 120, 123
+  offset: 0, 2
+  index: -1
+3
+  rotate: false
+  xy: 1382, 135
+  size: 118, 120
+  orig: 120, 123
+  offset: 2, 0
+  index: -1
+4
+  rotate: true
+  xy: 1520, 258
+  size: 120, 116
+  orig: 120, 123
+  offset: 0, 3
+  index: -1
+5
+  rotate: false
+  xy: 1382, 12
+  size: 117, 121
+  orig: 120, 123
+  offset: 3, 2
+  index: -1
+6
+  rotate: false
+  xy: 1501, 12
+  size: 117, 121
+  orig: 120, 123
+  offset: 3, 2
+  index: -1
+7
+  rotate: false
+  xy: 1401, 257
+  size: 117, 121
+  orig: 120, 123
+  offset: 3, 2
+  index: -1
+8
+  rotate: true
+  xy: 1502, 138
+  size: 117, 121
+  orig: 120, 123
+  offset: 3, 1
+  index: -1
+9
+  rotate: true
+  xy: 1620, 19
+  size: 117, 121
+  orig: 120, 123
+  offset: 3, 1
+  index: -1
+backlight
+  rotate: true
+  xy: 2, 137
+  size: 702, 700
+  orig: 702, 700
+  offset: 0, 0
+  index: -1
+itemthanglon
+  rotate: true
+  xy: 1099, 257
+  size: 582, 300
+  orig: 584, 301
+  offset: 1, 1
+  index: -1
+itemthangsieulon
+  rotate: true
+  xy: 704, 216
+  size: 623, 393
+  orig: 628, 394
+  offset: 5, 0
+  index: -1
+thanglontxt
+  rotate: false
+  xy: 730, 2
+  size: 530, 212
+  orig: 548, 231
+  offset: 9, 9
+  index: -1
+thangsieulontxt
+  rotate: true
+  xy: 1401, 380
+  size: 459, 308
+  orig: 493, 346
+  offset: 16, 20
+  index: -1

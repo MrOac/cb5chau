@@ -1,0 +1,41 @@
+
+Agrybird.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGChimDien
+  rotate: false
+  xy: 306, 1
+  size: 221, 387
+  orig: 221, 387
+  offset: 0, 0
+  index: -1
+Group 31206
+  rotate: false
+  xy: 1, 1
+  size: 303, 327
+  orig: 303, 327
+  offset: 0, 0
+  index: -1
+Group 31207
+  rotate: false
+  xy: 529, 1
+  size: 226, 296
+  orig: 226, 296
+  offset: 0, 0
+  index: -1
+Group 31205
+  rotate: false
+  xy: 1, 330
+  size: 275, 117
+  orig: 277, 119
+  offset: 1, 1
+  index: -1
+BGboard
+  rotate: false
+  xy: 278, 390
+  size: 214, 100
+  orig: 214, 100
+  offset: 0, 0
+  index: -1

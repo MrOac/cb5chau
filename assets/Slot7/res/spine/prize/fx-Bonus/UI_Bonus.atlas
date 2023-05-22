@@ -1,0 +1,48 @@
+
+UI_Bonus.png
+size: 679,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus copy 2
+  rotate: false
+  xy: 282, 328
+  size: 395, 112
+  orig: 395, 112
+  offset: 0, 0
+  index: -1
+Bonus_Bright
+  rotate: false
+  xy: 282, 216
+  size: 395, 110
+  orig: 395, 110
+  offset: 0, 0
+  index: -1
+Bonus_Glow
+  rotate: true
+  xy: 2, 2
+  size: 438, 138
+  orig: 438, 138
+  offset: 0, 0
+  index: -1
+Bonus_Glow_Bright
+  rotate: true
+  xy: 142, 2
+  size: 438, 138
+  orig: 438, 138
+  offset: 0, 0
+  index: -1
+Glow_Round
+  rotate: false
+  xy: 282, 47
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+Glow_Round2
+  rotate: false
+  xy: 450, 47
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1

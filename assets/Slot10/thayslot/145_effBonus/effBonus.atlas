@@ -1,0 +1,55 @@
+
+effBonus.png
+size: 1385,1351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgbonus
+  rotate: true
+  xy: 2, 436
+  size: 913, 854
+  orig: 913, 854
+  offset: 0, 0
+  index: -1
+bgtxtbonus
+  rotate: false
+  xy: 831, 195
+  size: 499, 161
+  orig: 499, 161
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 425, 2
+  size: 255, 83
+  orig: 258, 87
+  offset: 1, 2
+  index: -1
+effect 1
+  rotate: false
+  xy: 2, 13
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+effect 2
+  rotate: true
+  xy: 858, 358
+  size: 464, 477
+  orig: 464, 477
+  offset: 0, 0
+  index: -1
+effect 3
+  rotate: false
+  xy: 858, 824
+  size: 525, 525
+  orig: 525, 525
+  offset: 0, 0
+  index: -1
+item
+  rotate: true
+  xy: 425, 87
+  size: 347, 404
+  orig: 416, 448
+  offset: 25, 29
+  index: -1

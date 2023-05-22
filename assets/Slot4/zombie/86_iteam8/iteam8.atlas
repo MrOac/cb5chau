@@ -1,0 +1,20 @@
+
+iteam8.png
+size: 246,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it8
+  rotate: false
+  xy: 2, 2
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+it82
+  rotate: false
+  xy: 124, 2
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Tàixỉu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/18 (12)
+  rotate: false
+  xy: 237, 396
+  size: 112, 106
+  orig: 234, 234
+  offset: 57, 57
+  index: -1
+fx/18 (1)
+  rotate: false
+  xy: 1, 237
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (9)
+  rotate: false
+  xy: 237, 236
+  size: 186, 158
+  orig: 234, 234
+  offset: 17, 39
+  index: -1
+fx/18 (8)
+  rotate: false
+  xy: 709, 224
+  size: 230, 221
+  orig: 234, 234
+  offset: 0, 2
+  index: -1
+fx/18 (5)
+  rotate: false
+  xy: 473, 1
+  size: 234, 233
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (6)
+  rotate: false
+  xy: 237, 1
+  size: 234, 233
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (3)
+  rotate: false
+  xy: 1, 473
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (11)
+  rotate: false
+  xy: 351, 396
+  size: 112, 106
+  orig: 234, 234
+  offset: 57, 57
+  index: -1
+fx/18 (7)
+  rotate: false
+  xy: 709, 1
+  size: 230, 221
+  orig: 234, 234
+  offset: 0, 2
+  index: -1
+fx/18 (4)
+  rotate: false
+  xy: 1, 1
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (2)
+  rotate: false
+  xy: 1, 709
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (10)
+  rotate: false
+  xy: 425, 236
+  size: 186, 158
+  orig: 234, 234
+  offset: 17, 39
+  index: -1
+txt_tai
+  rotate: false
+  xy: 147, 945
+  size: 124, 73
+  orig: 124, 73
+  offset: 0, 0
+  index: -1
+txt_xiu
+  rotate: false
+  xy: 1, 945
+  size: 144, 78
+  orig: 144, 78
+  offset: 0, 0
+  index: -1

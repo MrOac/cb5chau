@@ -1,0 +1,286 @@
+
+skeleton.png
+size: 1828,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1702, 429
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 1702, 314
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+BallGlow
+  rotate: false
+  xy: 1708, 137
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+BallL
+  rotate: false
+  xy: 1356, 31
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+BallR
+  rotate: false
+  xy: 1708, 199
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 1559, 135
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1
+JP
+  rotate: false
+  xy: 1556, 86
+  size: 145, 47
+  orig: 145, 47
+  offset: 0, 0
+  index: -1
+JPLight
+  rotate: false
+  xy: 1471, 37
+  size: 145, 47
+  orig: 145, 47
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_00
+  rotate: false
+  xy: 2, 138
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_01
+  rotate: false
+  xy: 281, 418
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_02
+  rotate: false
+  xy: 2, 2
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_03
+  rotate: false
+  xy: 281, 282
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_04
+  rotate: false
+  xy: 484, 418
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_05
+  rotate: false
+  xy: 484, 282
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_06
+  rotate: false
+  xy: 687, 418
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_07
+  rotate: false
+  xy: 687, 282
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_08
+  rotate: false
+  xy: 890, 418
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_09
+  rotate: false
+  xy: 890, 282
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_10
+  rotate: false
+  xy: 1093, 418
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_11
+  rotate: false
+  xy: 1093, 282
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_12
+  rotate: false
+  xy: 1296, 418
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_13
+  rotate: false
+  xy: 1296, 282
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_14
+  rotate: false
+  xy: 1499, 418
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_15
+  rotate: false
+  xy: 1499, 282
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_16
+  rotate: true
+  xy: 205, 71
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_17
+  rotate: false
+  xy: 341, 146
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_18
+  rotate: false
+  xy: 544, 146
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_19
+  rotate: false
+  xy: 747, 146
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_20
+  rotate: false
+  xy: 950, 146
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_21
+  rotate: false
+  xy: 1153, 146
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_22
+  rotate: false
+  xy: 1356, 146
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_23
+  rotate: false
+  xy: 341, 10
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_24
+  rotate: false
+  xy: 544, 10
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_25
+  rotate: false
+  xy: 747, 10
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_26
+  rotate: false
+  xy: 950, 10
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Jackpot_Fire/Jackpot_Fire_27
+  rotate: false
+  xy: 1153, 10
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 1471, 106
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+TextGlow
+  rotate: false
+  xy: 205, 20
+  size: 110, 49
+  orig: 110, 49
+  offset: 0, 0
+  index: -1
+glow1_back
+  rotate: false
+  xy: 2, 274
+  size: 277, 278
+  orig: 277, 278
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1770, 159
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

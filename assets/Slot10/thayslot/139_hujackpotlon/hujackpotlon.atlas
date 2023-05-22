@@ -1,0 +1,34 @@
+
+hujackpotlon.png
+size: 376,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jackpot
+  rotate: false
+  xy: 248, 77
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+Layer 17 copy
+  rotate: true
+  xy: 248, 115
+  size: 138, 125
+  orig: 138, 125
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 8
+  size: 244, 245
+  orig: 244, 245
+  offset: 0, 0
+  index: -1
+lon
+  rotate: true
+  xy: 248, 2
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+iteam7.png
+size: 220,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it7
+  rotate: false
+  xy: 2, 2
+  size: 107, 154
+  orig: 107, 154
+  offset: 0, 0
+  index: -1
+it72
+  rotate: false
+  xy: 111, 2
+  size: 107, 154
+  orig: 107, 154
+  offset: 0, 0
+  index: -1

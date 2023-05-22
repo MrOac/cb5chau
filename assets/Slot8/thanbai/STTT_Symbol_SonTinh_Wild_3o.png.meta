@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4f5932f4-ac7d-446b-be18-2934b96c5797",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 990,
+  "height": 607,
+  "platformSettings": {},
+  "subMetas": {
+    "STTT_Symbol_SonTinh_Wild_3o": {
+      "ver": "1.0.4",
+      "uuid": "20b0fa0d-eba5-4f81-a9e7-307515ce5c05",
+      "rawTextureUuid": "4f5932f4-ac7d-446b-be18-2934b96c5797",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 984,
+      "height": 603,
+      "rawWidth": 990,
+      "rawHeight": 607,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

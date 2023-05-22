@@ -1,0 +1,34 @@
+
+itfreespin.png
+size: 331,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dauhoa
+  rotate: false
+  xy: 137, 39
+  size: 127, 105
+  orig: 127, 105
+  offset: 0, 0
+  index: -1
+nen
+  rotate: false
+  xy: 2, 11
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+thanhoa
+  rotate: true
+  xy: 266, 55
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+txtfree
+  rotate: false
+  xy: 137, 2
+  size: 123, 35
+  orig: 123, 35
+  offset: 0, 0
+  index: -1

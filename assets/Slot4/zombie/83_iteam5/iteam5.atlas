@@ -1,0 +1,20 @@
+
+iteam5.png
+size: 168,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it5
+  rotate: false
+  xy: 2, 2
+  size: 81, 141
+  orig: 81, 141
+  offset: 0, 0
+  index: -1
+it52
+  rotate: false
+  xy: 85, 2
+  size: 81, 141
+  orig: 81, 141
+  offset: 0, 0
+  index: -1

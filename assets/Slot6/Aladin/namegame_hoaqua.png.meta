@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "976a9422-0c35-4be8-9ee7-850ff043b842",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 270,
+  "height": 71,
+  "platformSettings": {},
+  "subMetas": {
+    "namegame_hoaqua": {
+      "ver": "1.0.4",
+      "uuid": "5ccf0ea1-3101-4310-99ea-a0e9287684df",
+      "rawTextureUuid": "976a9422-0c35-4be8-9ee7-850ff043b842",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 270,
+      "height": 70,
+      "rawWidth": 270,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

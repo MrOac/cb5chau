@@ -1,0 +1,20 @@
+
+time_countdown.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire
+  rotate: false
+  xy: 1, 1
+  size: 300, 270
+  orig: 316, 316
+  offset: 5, 24
+  index: -1
+Layer48
+  rotate: false
+  xy: 1, 273
+  size: 263, 298
+  orig: 308, 308
+  offset: 22, 6
+  index: -1
